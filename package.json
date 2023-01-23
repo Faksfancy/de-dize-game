@@ -1,0 +1,15 @@
+{
+  "name": "de-dize-game",
+  "version": "1.0.0",
+  "description": "a dice rolling game between two players",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Fakolujo Micheal",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
